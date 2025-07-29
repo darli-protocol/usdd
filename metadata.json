@@ -1,0 +1,10 @@
+{
+    "name": "Darli USD",
+    "symbol": "USDD",
+    "description": "Darli's unbiased USD stablecoin, built on Solana.",
+    "image": "https://raw.githubusercontent.com/darli-protocol/usdd/main/asset/darli.png",
+    "extensions": {
+    "website": "https://darli.xyz",
+    "github": "https://github.com/darli-protocol/usdd"
+    }
+}
