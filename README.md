@@ -15,7 +15,7 @@ This repository hosts the official token metadata for wallets, explorers, and in
 | **Description** | Darli's unbiased USD stablecoin, built on Solana.             |
 | **Image**    | ![Darli Token Logo](https://raw.githubusercontent.com/darli-protocol/usdd/main/asset/darli.png) |
 | **Website**  | [https://darli.xyz](https://darli.xyz)                            |
-| **GitHub**   | [https://github.com/darli-protocol](https://github.com/darli-protocol/usdd) |
+| **GitHub**   | [https://github.com/darli-protocol/usdd](https://github.com/darli-protocol/usdd) |
 
 ---
 
